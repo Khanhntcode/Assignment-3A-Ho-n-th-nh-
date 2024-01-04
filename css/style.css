@@ -6,15 +6,11 @@
 .bg-grey {
   background: #f7f7f7;
 }
-.container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  /* margin: 0 50px 0 50px; */
-}
+
 .container2 {
-  width: 100%;
+  width: 80%;
   height: 80px;
+  margin: 10%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -100,7 +96,7 @@ header p {
   height: 45px;
   text-decoration: none;
   color: #1d3557;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .icon {
@@ -293,6 +289,10 @@ li span {
   grid-column: 1/-1;
   border-top: 2px solid #d6c08d;
 }
+.cer-content- {
+  grid-column: 1/-1;
+  border-top: 2px solid #d6c08d;
+}
 
 /* Dự án */
 .project-grid {
@@ -337,16 +337,16 @@ tr {
 }
 /* Footer */
 #footer {
-  margin: 50px;
   height: 8cap;
   line-height: 1.5;
   text-align: center;
+  width: 100%;
 }
 #footer a:link,
 a:visited {
   font-size: 24px;
   font-weight: bold;
-  margin-right: 50px;
+  margin: 20px;
   text-decoration: none;
   color: #1d3557;
 }

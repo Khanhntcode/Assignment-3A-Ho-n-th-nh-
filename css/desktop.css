@@ -1,3 +1,4 @@
+/* CSS cho Desktop */
 @media screen and (min-width: 993px) {
   /* ẩn thông tin  user đến khi submit email */
   #info .section-content {

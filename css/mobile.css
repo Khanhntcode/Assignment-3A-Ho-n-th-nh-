@@ -1,3 +1,4 @@
+/* CSS cho Mobile */
 @media screen and (max-width: 767px) {
   .nav4 {
     display: none;
@@ -59,6 +60,9 @@
   }
   .text-left {
     padding: 30px 0 0 70px;
+  }
+  #footer span {
+    display: none;
   }
   .box1 {
     height: 800px;
