@@ -1,15 +1,9 @@
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .nav4 {
     display: none;
   }
   #info .section-content {
     display: none;
-  }
-  #job-info {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    margin-bottom: 50px;
   }
   #banner {
     height: 500px;
@@ -67,7 +61,7 @@
     padding: 30px 0 0 70px;
   }
   .box1 {
-    height: 700px;
+    height: 800px;
     border-bottom: 10px solid #0d6efd;
     border-top: 10px solid #0d6efd;
   }
@@ -76,14 +70,14 @@
     border-bottom: 10px solid #0d6efd;
   }
   .box3 {
-    height: 600px;
+    height: 800px;
     border-bottom: 10px solid #0d6efd;
   }
   .box4 {
     height: 400px;
   }
   .box5 {
-    height: 1700px;
+    height: 1800px;
     border: 10px solid #0d6efd;
   }
 }

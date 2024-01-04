@@ -25,7 +25,7 @@ body {
   color: #1d3557;
 }
 
-.job-info {
+#job-info {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -380,6 +380,18 @@ a:active {
 .hidden {
   display: none;
 }
+
+/* Phần nâng cao */
+.title {
+  border-bottom: 1px solid #999999;
+  color: rgb(0, 17, 255);
+}
+.border323 {
+  border-bottom: 1px solid #d6d4d4;
+}
+.title-con {
+  border-bottom: 1px dotted rgb(13, 193, 238);
+}
 .box1 {
   height: 600px;
 }
@@ -388,7 +400,6 @@ a:active {
 }
 .box3 {
   height: 600px;
-  padding-left: 30px;
 }
 .box4 {
   height: 600px;
